@@ -1,16 +1,21 @@
-# make_burger
+# Make Burguer
 
-## Project setup
+## Configuração do Projeto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compilar e rodar o Projeto com pré-reload em Desenvolvimento
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Rodar Api dos dados
+```
+npm run backend
+```
+
+### Compilar e construir o projeto para Produção
 ```
 npm run build
 ```
